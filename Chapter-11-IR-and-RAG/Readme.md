@@ -32,7 +32,7 @@ Based on the groundbreaking NeurIPS research paper: _"Retrieval-Augmented Genera
 
 A complete recorded video walkthrough explaining the slides, mathematical equations, architectural comparisons, and training methodologies can be accessed here:
 
-🎬 **[Watch the Presentation Video Recording Here](https://www.google.com)**
+🎬 **[Watch the Presentation Video Recording Here](https://www.aparat.com/v/lid2mu7)**
 
 ---
 
